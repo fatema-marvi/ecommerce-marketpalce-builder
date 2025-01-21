@@ -8,7 +8,7 @@ Project Links
 
 Live Website: hackathon-4
 
-GitHub Repository: hackathon-4 GitHub
+GitHub Repository: https://github.com/fatema-marvi/hackathon-4.git
 
 Deployment on Vercel
 
